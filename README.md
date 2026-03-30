@@ -15,3 +15,5 @@ O bot foi estruturado para guiar o usuário em três frentes principais:
 
 ### 📁 Como visualizar
 Este repositório contém a documentação da lógica. O chatbot funcional pode ser testado diretamente no meu [Portfólio](https://wallace775.github.io/portfolio/).# Automacao-atendimento-barbearia
+
+![Fluxo da Automação](./fluxo-logica.png)
